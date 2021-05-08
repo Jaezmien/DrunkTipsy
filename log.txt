@@ -1,0 +1,127 @@
+============================= Blastix Riotz
+{ entryName: 'Blastix Riotz/', name: '' }
+{ entryName: 'Blastix Riotz/background/', name: '' }
+{ entryName: 'Blastix Riotz/background/background.png', name: 'background.png' }
+{ entryName: 'Blastix Riotz/background/default.xml', name: 'default.xml' }
+{ entryName: 'Blastix Riotz/lua/', name: '' }
+{ entryName: 'Blastix Riotz/lua/characters/', name: '' }
+{ entryName: 'Blastix Riotz/lua/characters/a.png', name: 'a.png' }
+{ entryName: 'Blastix Riotz/lua/characters/b.png', name: 'b.png' }
+{ entryName: 'Blastix Riotz/lua/characters/blas.png', name: 'blas.png' }
+{ entryName: 'Blastix Riotz/lua/characters/i.png', name: 'i.png' }
+{ entryName: 'Blastix Riotz/lua/characters/l.png', name: 'l.png' }
+{ entryName: 'Blastix Riotz/lua/characters/o.png', name: 'o.png' }
+{ entryName: 'Blastix Riotz/lua/characters/otz.png', name: 'otz.png' }
+{ entryName: 'Blastix Riotz/lua/characters/r.png', name: 'r.png' }
+{ entryName: 'Blastix Riotz/lua/characters/ri.png', name: 'ri.png' }
+{ entryName: 'Blastix Riotz/lua/characters/s.png', name: 's.png' }
+{ entryName: 'Blastix Riotz/lua/characters/t.png', name: 't.png' }
+{ entryName: 'Blastix Riotz/lua/characters/tix.png', name: 'tix.png' }
+{ entryName: 'Blastix Riotz/lua/characters/x.png', name: 'x.png' }
+{ entryName: 'Blastix Riotz/lua/characters/z.png', name: 'z.png' }
+{ entryName: 'Blastix Riotz/lua/default.xml', name: 'default.xml' }
+{ entryName: 'Blastix Riotz/lua/nn-default.xml', name: 'nn-default.xml' }
+{ entryName: 'Blastix Riotz/music.ogg', name: 'music.ogg' }
+{ entryName: 'Blastix Riotz/steps.sm', name: 'steps.sm' }
+
+==================================== Mods Boot Camp
+{ entryName: 'Mods Boot Camp/', name: '' }
+{ entryName: 'Mods Boot Camp/A Moon of Caral/', name: '' }
+{ entryName: 'Mods Boot Camp/A Moon of Caral/background/', name: '' }
+{ entryName: 'Mods Boot Camp/A Moon of Caral/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Alpha Omega/', name: '' }
+{ entryName: 'Mods Boot Camp/Alpha Omega/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Alpha Omega/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Alpha Omega/lua/bg pieces/', name: '' }
+{ entryName: 'Mods Boot Camp/Alpha Omega/lua/stars/', name: '' }
+{ entryName: 'Mods Boot Camp/Ayakashi/', name: '' }
+{ entryName: 'Mods Boot Camp/Ayakashi/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Ayakashi/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Backflow/', name: '' }
+{ entryName: 'Mods Boot Camp/Backflow/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Backflow/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Blacksphere/', name: '' }
+{ entryName: 'Mods Boot Camp/Blacksphere/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Blacksphere/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Blastix Riotz/', name: '' }
+{ entryName: 'Mods Boot Camp/Blastix Riotz/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Blastix Riotz/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Blastix Riotz/lua/characters/', name: '' }
+{ entryName: 'Mods Boot Camp/Bloom/', name: '' }
+{ entryName: 'Mods Boot Camp/Bloom/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Bloom/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Catadioptric/', name: '' }
+{ entryName: 'Mods Boot Camp/Catadioptric/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Catadioptric/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Common World Domination/', name: '' }
+{
+  entryName: 'Mods Boot Camp/Common World Domination/background/',
+  name: ''
+}
+{ entryName: 'Mods Boot Camp/Common World Domination/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Deadlock XXX/', name: '' }
+{ entryName: 'Mods Boot Camp/Deadlock XXX/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Deadlock XXX/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Discloze/', name: '' }
+{ entryName: 'Mods Boot Camp/Discloze/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Discloze/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Disco Kawaii/', name: '' }
+{ entryName: 'Mods Boot Camp/Disco Kawaii/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Disco Kawaii/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Dream Control/', name: '' }
+{ entryName: 'Mods Boot Camp/Dream Control/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Dream Control/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Echo/', name: '' }
+{ entryName: 'Mods Boot Camp/Echo/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Echo/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Firestorm/', name: '' }
+{ entryName: 'Mods Boot Camp/Firestorm/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Firestorm/lua/', name: '' }
+{
+  entryName: 'Mods Boot Camp/Fly to Next World (syzfonics Remix)/',
+  name: ''
+}
+{
+  entryName: 'Mods Boot Camp/Fly to Next World (syzfonics Remix)/background/',
+  name: ''
+}
+{
+  entryName: 'Mods Boot Camp/Fly to Next World (syzfonics Remix)/lua/',
+  name: ''
+}
+{ entryName: 'Mods Boot Camp/Inf Blaster/', name: '' }
+{ entryName: 'Mods Boot Camp/Inf Blaster/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Inf Blaster/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Mayu/', name: '' }
+{ entryName: 'Mods Boot Camp/Mayu/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Mayu/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Opium and Purple Haze/', name: '' }
+{
+  entryName: 'Mods Boot Camp/Opium and Purple Haze/background/',
+  name: ''
+}
+{ entryName: 'Mods Boot Camp/Opium and Purple Haze/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Pet Peeve/', name: '' }
+{ entryName: 'Mods Boot Camp/Pet Peeve/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Pet Peeve/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Pieces of a Dream/', name: '' }
+{ entryName: 'Mods Boot Camp/Pieces of a Dream/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Pieces of a Dream/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Profession/', name: '' }
+{ entryName: 'Mods Boot Camp/Profession/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Profession/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Rubeus/', name: '' }
+{ entryName: 'Mods Boot Camp/Rubeus/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Rubeus/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Twin Rocket/', name: '' }
+{ entryName: 'Mods Boot Camp/Twin Rocket/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Twin Rocket/lua/', name: '' }
+{ entryName: 'Mods Boot Camp/Warriors Aboot/', name: '' }
+{ entryName: 'Mods Boot Camp/Warriors Aboot/background/', name: '' }
+{ entryName: 'Mods Boot Camp/Warriors Aboot/lua/', name: '' }
+
+============================================ Alpha Omega
+{ entryName: 'background/', name: '' }
+{ entryName: 'lua/', name: '' }
+{ entryName: 'lua/bg pieces/', name: '' }
+{ entryName: 'lua/stars/', name: '' }
