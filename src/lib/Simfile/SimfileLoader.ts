@@ -150,7 +150,7 @@ export default function (data: string[]): Song {
 				for (let radarMeter of params[5].split(","))
 					steps.GrooveRadar[radarIndex++] = parseFloat(radarMeter);
 
-				// steps.ParseNoteData( params[6] )
+				steps.ParseNotedata( params[6] )
 				if (song.Steps[steps.Difficulty] === undefined)
 					song.Steps[steps.Difficulty] = []
 				song.Steps[steps.Difficulty].push(steps);

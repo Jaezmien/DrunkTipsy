@@ -74,11 +74,46 @@ export enum StepsDifficulty {
 }
 
 export class Steps {
-    ChartType: StepsType = StepsType.DANCE_SINGLE;
+    ChartType = StepsType.DANCE_SINGLE;
     Author = "";
-    Difficulty: StepsDifficulty = StepsDifficulty.Beginner;
+    Difficulty = StepsDifficulty.Beginner;
     Meter = 0;
     GrooveRadar = [0, 0, 0, 0, 0];
+
+	// Misc stuff
+	Steps = 0;
+	Mines = 0;
+	Jumps = 0;
+	Hands = 0;
+	Holds = 0;
+	Rolls = 0;
+
+	ParseNotedata( steps: string ) {
+		// TODO: Actually look at in-game implemenention of this
+		this.Mines = steps.replace(/[^M]/g,"").length
+		
+		const measure_regex = new RegExp(`.{0,${ this.ChartType == StepsType.DANCE_SINGLE ? 4 : 8 }}`,"g")
+		steps.split( ',' ).forEach(measure => {
+			measure.match( measure_regex )!.forEach(line => {
+				const t = line.replace(/[03]/g,"")
+				if( t.length >= 3 ) {
+					this.Hands++
+				}
+				else if( t.length === 2 ) {
+					this.Jumps++
+				}
+				t.split("").forEach(x => {
+					switch(x) {
+						case "M": this.Mines++; break;
+						case "1": this.Steps++; break;
+						case "2": this.Holds++; break;
+						case "4": this.Rolls++; break;
+					}
+				})
+			})
+		})
+		this.Steps += this.Holds + this.Rolls - this.Jumps - this.Hands;
+	}
 }
 
 export class Song {
